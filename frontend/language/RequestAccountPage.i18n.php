@@ -30,17 +30,17 @@ Also, your password will be e-mailed to you when your account is created.',
 	'requestaccount-areas-text' => 'Select the topic areas below in which you have formal expertise or would like to do the most work in.',
 	'requestaccount-ext-text'   => 'The following information is kept private and will only be used for this request.
 You may want to list contacts such a phone number to aid in identify confirmation.',
-	'requestaccount-bio-text'   => "Try to include any relevant credentials in your biography below.",
+	'requestaccount-bio-text'   => "Human identification",
 	'requestaccount-bio-text-i' => "'''Your biography will be set as the initial content for your userpage.'''
 Make sure you are comfortable publishing such information.",
-	'requestaccount-real'       => 'Real name:',
+	'requestaccount-real'       => 'Name:',
 	'requestaccount-same'       => '(same as real name below)',
 	'requestaccount-email'      => 'E-mail address:',
 	'requestaccount-reqtype'    => 'Position:',
 	'requestaccount-level-0'    => 'author',
 	'requestaccount-level-1'    => 'editor',
 	'requestaccount-info'       => '(?)',
-	'requestaccount-bio'        => 'Personal biography (plain text only):',
+	'requestaccount-bio'        => 'Say something about yourself so we know that you are a human and not a spambot (plain text only):',
 	'requestaccount-attach'     => 'Resume or CV (optional):',
 	'requestaccount-notes'      => 'Additional notes:',
 	'requestaccount-urls'       => 'List of websites, if any (each on a separate line):',
@@ -51,8 +51,7 @@ Make sure you are comfortable publishing such information.",
 	'requestaccount-exts'       => 'Attachment file type is disallowed.',
 	'requestaccount-resub'      => 'Your CV/resume file must be re-selected for security reasons.
 Leave the field blank if you no longer want to include one.',
-	'requestaccount-tos'        => 'I have read and agree to abide by the [[{{MediaWiki:Requestaccount-page}}|Terms of Service]] of {{SITENAME}}.
-The name I have specified under "Real name" is in fact my own real name.',
+	'requestaccount-tos'        => 'I have read and agree to abide by the [[{{MediaWiki:Requestaccount-page}}|Terms of Service]] of {{SITENAME}}.',
 	'requestaccount-submit'     => 'Request account',
 	'requestaccount-sent'       => 'Your account request has successfully been sent and is now pending review.
 	A confirmation email has been sent to your e-mail address.',
@@ -4502,4 +4501,3 @@ $3
 	'acct_request_throttle_hit' => '抱歉，您已經請求了{{PLURAL:$1|1個|$1個}}帳號。
 您不可以請求更多帳號。',
 );
-
