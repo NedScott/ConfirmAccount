@@ -10,7 +10,7 @@ $messages = array();
 
 $messages['en'] = array(
 	'requestaccount'            => 'Request account',
-	'requestaccount-text'       => '\'\'\'Complete and submit the following form to request a user account\'\'\'.
+	'requestaccount-text'       => '\'\'\'{{huge|ONLY REQUEST AN ACCOUNT IF YOU WISH TO EDIT THE WIKI MANUAL}}\'\'\'.
 
 Make sure that you first read the [[{{MediaWiki:Requestaccount-page}}|Terms of Service]] before requesting an account.
 
