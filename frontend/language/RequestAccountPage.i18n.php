@@ -10,11 +10,7 @@ $messages = array();
 
 $messages['en'] = array(
 	'requestaccount'            => 'Request account',
-	'requestaccount-text'       => '\'\'\'{{huge|ONLY REQUEST AN ACCOUNT IF YOU WISH TO EDIT THE WIKI MANUAL}}\'\'\'.
-
-Make sure that you first read the [[{{MediaWiki:Requestaccount-page}}|Terms of Service]] before requesting an account.
-
-Once the account is approved, you will be e-mailed a notification message and the account will be usable at [[Special:UserLogin|login]].',
+	'requestaccount-text'       => '{{RequestAccount}}',
 	'requestaccount-footer'     => '', # only translate this message to other languages if you have to change it
 	'requestaccount-page'       => '{{ns:project}}:Terms of Service',
 	'requestaccount-dup'        => '\'\'\'Note: You already are logged in with a registered account.\'\'\'',
